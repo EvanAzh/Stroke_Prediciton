@@ -57,3 +57,4 @@ Exploration of additional predictive modeling techniques
 
 Contact
 For questions or contributions, contact the project members or open an issue on this repository.
+email me: evanbrahmabrahma@gmail.com
